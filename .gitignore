@@ -1,0 +1,6 @@
+backend/node_modules/
+client/node_modules/
+
+# Ignore environment variables
+backend/.env
+client/.env
